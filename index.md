@@ -22,7 +22,7 @@ Recommender System, Social Network, Data Mining
 <small>Advisor: [Xueliang Liu](https://scholar.google.com/citations?user=-BFEdeMAAAAJ&hl=en)</small>     
 
 ### Experiences
-**Visting Scholar**, University of Missouri-Rolla(Rolla), December 2018 - July 2019  
+**Visting Scholar**, <small>University of Missouri-Rolla(Rolla), December 2018 - July 2019</small>   
 <small>Advisior: [Yanjie Fu](https://www.yanjiefu.com)</small>
 
 ------
