@@ -20,7 +20,7 @@ BEng in Electronic Information Science and Technology, 2015
 <small>Hefei University of Technology</small>
 
 ### Publications
-#### Conferernce  
+### Conferernce  
 **Attentive Recurrent Social Recommendation**, Peijie Sun, Le Wu, Meng Wang, SIGIR 2018. [Slide](), [PPT](), [Poster]()  
 **Collaborative Neural Social Recommendation**, Le Wu, Peijie Sun, Richang Hong, Yong Ge, Meng Wang, TSMC:System 2018. [PPT]()
 
