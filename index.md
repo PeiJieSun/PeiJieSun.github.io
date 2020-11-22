@@ -28,16 +28,13 @@ BEng in Electronic Information Science and Technology, 2015
 [pdf](https://app.box.com/s/gboxhz7kcjmi0w7zc451cqqoleaanpcl), 
 [slide](https://app.box.com/s/r26esy90svl17bfpgg09b68kntlo6h3q), 
 [poster](https://app.box.com/s/t7hzalnvpxyl3p3gi9v21a2gon0o73h5).  
-
 **Contextual Attention Model for Social Recommendation**, Hogfeng Bao, Le Wu, Peijie Sun. PCM 2018. 
 [pdf](https://link.springer.com/chapter/10.1007/978-3-030-00767-6_58).  
-
 **A Neural Influence Diffusion Model for Social Recommendation**, Le Wu, Peijie Sun, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang. SIGIR 2019. 
 [pdf](https://app.box.com/s/svgrucstfa5y6ng9xybunbmrpddxdt79), 
 [slide](https://app.box.com/s/60ybnf0brv68s5vcz651a0p40frxtxyp), 
 [poster](https://app.box.com/s/49rmh3xh0t2o1jad17sgneyegji3yo2q), 
 [code](https://github.com/PeiJieSun/diffnet).  
-
 **Dual Learning for Explainable Recommendation Towards Unifying User Preference Prediction and Review Generation**, Peijie Sun, Le Wu, Kun Zhang, Yanjie Fu, Richang Hong, Meng Wang. WWW 2020. 
 [pdf](https://app.box.com/file/744297048679?s=7kj6k40r0ik0jmb2r97qkhnwt1tjsv0j), 
 [slide](https://app.box.com/s/ljpn0zb3gvs4wpmyzfhd86gmubseyjuq), 
