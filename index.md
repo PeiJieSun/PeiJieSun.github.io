@@ -14,8 +14,7 @@ Recommender System, Social Network, Data Mining
 
 ### Education
 MEng in Signal and Information Processing, 2018
-<small>Hefei University of Technology</small>
-
+<small>Hefei University of Technology</small>  
 BEng in Electronic Information Science and Technology, 2015
 <small>Hefei University of Technology</small>
 
