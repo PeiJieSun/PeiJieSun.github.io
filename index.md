@@ -22,7 +22,7 @@ Recommender System, Social Network, Data Mining
 
 ### Experiences
 **Visting Scholar**, University of Missouri-Rolla(Rolla), December 2018 - July 2019  
-Advisior: [Yanjie Fu](https://www.yanjiefu.com)
+<small>Advisior: [Yanjie Fu](https://www.yanjiefu.com)</small>
 
 ------
 
