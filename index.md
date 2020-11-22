@@ -14,11 +14,11 @@ Recommender System, Social Network, Data Mining
 
 ### Education
 **Hefei University of Technology**  
-MEng in Signal and Information Processing, September 2015 - June 2018  
-Advisor: [Meng Wang](https://sites.google.com/view/meng-wang/home) and [Le Wu](http://ci.hfut.edu.cn/wl_10577/list.htm)  
+<small>MEng in Signal and Information Processing, September 2015 - June 2018</small>  
+<small>Advisor: [Meng Wang](https://sites.google.com/view/meng-wang/home) and [Le Wu](http://ci.hfut.edu.cn/wl_10577/list.htm)</small>   
 **Hefei University of Technology**  
-BEng in Electronic Information Science and Technology, September 2011 - June 2015  
-Advisor: [Xueliang Liu](https://scholar.google.com/citations?user=-BFEdeMAAAAJ&hl=en)   
+<small>BEng in Electronic Information Science and Technology, September 2011 - June 2015</small>   
+<small>Advisor: [Xueliang Liu](https://scholar.google.com/citations?user=-BFEdeMAAAAJ&hl=en)</small>     
 
 ### Experiences
 **Visting Scholar**, University of Missouri-Rolla(Rolla), December 2018 - July 2019  
