@@ -13,15 +13,15 @@ Peijie Sun is a Ph.D. student with the Hefei University of Technology. He receiv
 Recommender System, Social Network, Data Mining
 
 ### Education
+**Hefei University of Technology**
 MEng in Signal and Information Processing, September 2015 - June 2018  
 Advisor: [Meng Wang](https://sites.google.com/view/meng-wang/home) and [Le Wu](http://ci.hfut.edu.cn/wl_10577/list.htm)  
-<small>Hefei University of Technology</small>  
+**Hefei University of Technology**
 BEng in Electronic Information Science and Technology, September 2011 - June 2015  
 Advisor: [Xueliang Liu](https://scholar.google.com/citations?user=-BFEdeMAAAAJ&hl=en)   
-<small>Hefei University of Technology</small>
 
 ### Experiences
-**Visting Scholar**, University of Missouri-Rolla(Rolla), December 2018 - July 2019
+**Visting Scholar**, University of Missouri-Rolla(Rolla), December 2018 - July 2019  
 Advisior: [Yanjie Fu](https://www.yanjiefu.com)
 
 ------
