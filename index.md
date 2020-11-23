@@ -3,7 +3,7 @@ layout: home
 title: Peijie Sun
 ;subtitle: This is where I will tell my friends way too much about me
 ---
-PhD candidate of Signal and Information Processing
+PhD candidate of Signal and Information Processing  
 [Hefei University of Technology](http://www.hfut.edu.cn)  
 Email: sun.hfut@gmail.com
 
