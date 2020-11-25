@@ -32,7 +32,7 @@ Recommender System, Social Network, Data Mining
 ### [Conferernce]  
 1. Dual Learning for Explainable Recommendation Towards Unifying User Preference Prediction and Review Generation, **Peijie Sun**, Le Wu, Kun Zhang, Yanjie Fu, Richang Hong, Meng Wang. WWW 2020. 
 [pdf](https://app.box.com/file/744297048679?s=7kj6k40r0ik0jmb2r97qkhnwt1tjsv0j), 
-[slide](https://app.box.com/s/ljpn0zb3gvs4wpmyzfhd86gmubseyjuq), 
+[slide](https://app.box.com/s/okwm5mpfbtwzqkshske7mq2n5nhb7q4k), 
 [code](https://github.com/www772/www2020_paper_772).  
 2. A Neural Influence Diffusion Model for Social Recommendation, Le Wu, **Peijie Sun**, Yanjie Fu, Richang Hong, Xiting Wang, Meng Wang. SIGIR 2019. 
 [pdf](https://app.box.com/s/svgrucstfa5y6ng9xybunbmrpddxdt79), 
