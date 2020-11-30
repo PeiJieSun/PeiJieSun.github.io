@@ -50,3 +50,7 @@ Recommender System, Social Network, Data Mining
 ### [Journal]
 1. Collaborative Neural Social Recommendation, Le Wu, **Peijie Sun**, Richang Hong, Yong Ge, Meng Wang. IEEE TSMC:Systems 2018. 
 [pdf](https://app.box.com/s/fwdol6a06ndx0ynvczuq2nx07p3htthu)  
+
+
+------
+`Last Update: 2020-11-30`
