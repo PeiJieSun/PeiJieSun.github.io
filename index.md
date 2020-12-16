@@ -50,7 +50,7 @@ Recommender System, Social Network, Data Mining
 ### [Journal]
 1. Collaborative Neural Social Recommendation, Le Wu, **Peijie Sun**, Richang Hong, Yong Ge, Meng Wang. IEEE TSMC:Systems 2018. 
 [pdf](https://app.box.com/s/fwdol6a06ndx0ynvczuq2nx07p3htthu)  
-
+2. DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation, Le Wu, Junwei Li, **Peijie Sun**, Richang Hong, Yong Ge, Meng Wang. IEEE TKDE 2020.[pdf](https://arxiv.org/pdf/2002.00844v3.pdf)
 
 ------
-`Last Update: 2020-11-30`
+`Last Update: 2020-12-16`
