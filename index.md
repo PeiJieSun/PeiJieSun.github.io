@@ -5,7 +5,7 @@ title: Peijie Sun
 ---
 PhD candidate of Signal and Information Processing  
 [Hefei University of Technology](http://www.hfut.edu.cn)  
-Email: sun.hfut@gmail.com
+Email: sun.hfut@gmail.com  
 [Resume `2020-05-20`](https://app.box.com/s/lyrpcavc28kk0xf9m9va3x97xy8wao0f)
 
 ## Biography
