@@ -59,4 +59,4 @@ Recommender System, Social Network, Data Mining
 [pdf](https://app.box.com/s/fwdol6a06ndx0ynvczuq2nx07p3htthu)
 
 ------
-`Last Update: 2020-12-16`
+`Last Update: 2020-12-21`
