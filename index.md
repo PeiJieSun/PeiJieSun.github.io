@@ -18,7 +18,7 @@ Recommender System, Social Network, Data Mining
 
 ### Education
 **Hefei University of Technology**  
-<small>PhD Candidate in Signal and Information Processing, September 2018 - Now</small>  
+<small>PhD Candidate of Signal and Information Processing, September 2018 - Now</small>  
 <small>Advisor: [Meng Wang](https://sites.google.com/view/meng-wang/home) and [Le Wu](http://ci.hfut.edu.cn/wl_10577/list.htm)</small>   
 **Hefei University of Technology**  
 <small>MEng in Signal and Information Processing, September 2015 - June 2018</small>  
