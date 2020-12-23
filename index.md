@@ -6,6 +6,7 @@ title: Peijie Sun
 PhD candidate of Signal and Information Processing  
 [Hefei University of Technology](http://www.hfut.edu.cn)  
 Email: sun.hfut@gmail.com  
+WeChat: 15256911585 NickName: PeijieSun  
 
 ### Biography
 Peijie Sun is a Ph.D. student with the Hefei University of Technology. He received the master degree from the same university in 2018. He has published several papers in leading conferences and journals, including WWW, SIGIR, IEEE TKDE and IEEE Trans. on SMC: Systems. His current research interests include recommender system, social network, and data mining.
